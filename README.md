@@ -12,14 +12,15 @@ Aplikasi CBT-SP adalah aplikasi perakkat lunak berbasis web yang dipergunakan kh
 Setelah melakukan penyempurnaan terhadap aplikasi ini dan dengan terselesaikannya panduan penggunaan aplikasi tersebut, maka di hari yang baik ini, pengembang ingin membagikan aplikasi ini secara GRATIS untuk dapat dimanfaatkan bagi sekolah-sekolah yang memerlukan di seluruh indonesia.
 
 ## 📥 Instalasi
-Instalasi Pada Windows 64 Bit
-   silahkan Download File Instaler (exe) berikut :
-   https://github.com/pasekpsbali/cbtsp2025/releases/download/cbt-sp-2025/Instaler_CBT_SP_2025.X64.exe
-   selanjutnya jalankan instaler dengan Run As Administrator
-   Ikuti Setiap Langkat yang ditampilkan hingga selesai
-Instalasi pada Ubuntu Server
-   Silahkan login pada komputer server anda
-   Lakukan instalasi dengan langkah sebagai berikut :
+## 📥 Instalasi Pada Windows 64 Bit :
+   #silahkan Download File Instaler (exe) berikut :
+   #https://github.com/pasekpsbali/cbtsp2025/releases/download/cbt-sp-2025/Instaler_CBT_SP_2025.X64.exe
+   #selanjutnya jalankan instaler dengan Run As Administrator
+   #Ikuti Setiap Langkat yang ditampilkan hingga selesai
+   
+## 📥Instalasi pada Ubuntu Server
+   #Silahkan login pada komputer server anda
+   #Lakukan instalasi dengan langkah sebagai berikut :
    ```bash
    wget https://github.com/pasekpsbali/cbtsp2025/releases/download/cbt-sp-2025/appcbtsp.zip
    sudo apt update
