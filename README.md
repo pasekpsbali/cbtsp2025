@@ -10,7 +10,9 @@ Guna memenuhi kebutuhan tersebut, Aplikasi CBT-SP hadir untuk membantu sekolah-s
 Aplikasi CBT-SP adalah aplikasi perakkat lunak berbasis web yang dipergunakan khusus untuk pengelolaan Tes Sumatif Siswa berbasis Komputer/HP. Aplikasi ini dikembangkan berbasis web oleh I Nyoman Pasek, S.Pd.,M.Pd (Pengawas Sekolah Disdikpora Provinsi Bali).
 
 Setelah melakukan penyempurnaan terhadap aplikasi ini dan dengan terselesaikannya panduan penggunaan aplikasi tersebut, maka di hari yang baik ini, pengembang ingin membagikan aplikasi ini secara GRATIS untuk dapat dimanfaatkan bagi sekolah-sekolah yang memerlukan di seluruh indonesia.
-📥 Instalasi
+
+##📥 Instalasi
+
 **Instalasi Pada Windows 64 Bit :**
 
 1. silahkan Download File Instaler (exe) berikut :
