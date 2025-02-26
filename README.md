@@ -6,7 +6,7 @@ CBTSP 2025 adalah aplikasi berbasis Linux untuk sistem Computer-Based Test (CBT)
 
 1. Unduh installer menggunakan perintah:
    ```bash
-   wget https://github.com/pasekpsbali/cbtsp2025/releases/download/untagged-ba25669b162c4ad0f5b7/appcbtsp.zip
+   wget https://github.com/pasekpsbali/cbtsp2025/releases/download/cbt-sp-2025/appcbtsp.zip
    sudo apt update
    sudo apt install unzip
    unzip appcbtsp.zip
